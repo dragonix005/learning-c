@@ -8,5 +8,6 @@
  */
 int main(void)
 {
+  /*ここがコメント*/
   return 0;
 }
