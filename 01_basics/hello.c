@@ -6,4 +6,11 @@
  * URL: https://9cguide.appspot.com/index.html
  * 著作権はサイトの作者様に帰属します。
  */
-printf("HelloWorld");
+
+#include <stdio.h>
+
+int main (void)
+{
+  printf("HelloWorld");
+ return 0;
+}
